@@ -14,6 +14,7 @@
   - customer_id : 고객 번호
   - country : 고객 거주 국가
   - total : 총 구매액(quantity X price)
+  총, 780502개의 row(주문기록), 9개의 column(feature 갯수)
 ![image](https://user-images.githubusercontent.com/54899906/120739239-2b435d00-c52c-11eb-856a-fd2df35591e3.png)
 
 - 평가 방법
@@ -24,7 +25,7 @@
 ---
 ## EDA
 - EDA.ipynb로 저장해둠
-- product_id 내에 outlier가 소수 존재
+- outlier가 소수 존재
 ---
 ## 가설과 검증
 - 성공 목록
