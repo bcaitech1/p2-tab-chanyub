@@ -22,7 +22,8 @@
 ---
 ## 최종 모델
 - catboost
-![image](https://user-images.githubusercontent.com/54899906/120744129-51b9c600-c535-11eb-8481-3afce22ce072.png)
+![image](https://user-images.githubusercontent.com/54899906/120744186-6b5b0d80-c535-11eb-8591-12290dedf650.png)
+
 
 ---
 ## EDA
