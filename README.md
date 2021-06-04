@@ -22,6 +22,8 @@
 ---
 ## 최종 모델
 - catboost
+![image](https://user-images.githubusercontent.com/54899906/120744129-51b9c600-c535-11eb-8481-3afce22ce072.png)
+
 ---
 ## EDA
 - EDA.ipynb로 저장해둠
